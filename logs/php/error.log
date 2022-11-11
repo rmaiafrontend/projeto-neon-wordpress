@@ -1,0 +1,521 @@
+[27-Sep-2022 11:45:48 UTC] PHP Warning:  Use of undefined constant get_template_directory_uri - assumed 'get_template_directory_uri' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:45:48 UTC] PHP Stack trace:
+[27-Sep-2022 11:45:48 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:45:48 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:45:48 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:45:48 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:12 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:12 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:12 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:12 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:12 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:12 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:13 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:13 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:13 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:13 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:13 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:13 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:13 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:13 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:13 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:13 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:13 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:13 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:13 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:13 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:13 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:13 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:13 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:13 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:13 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:13 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:13 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:13 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:13 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:13 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:13 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:13 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:13 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:13 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:13 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:13 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:13 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:13 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:13 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:13 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:13 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:13 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:14 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:14 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:14 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:14 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:14 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:14 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:14 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:14 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:14 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:14 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:14 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:14 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:14 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:14 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:14 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:14 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:14 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:14 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:14 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:14 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:14 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:14 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:14 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:14 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:15 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:15 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:15 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:15 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:15 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:15 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:15 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:15 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:15 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:15 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:15 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:15 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:15 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:15 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:15 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:15 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:15 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:15 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:15 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:15 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:15 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:15 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:15 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:15 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:15 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:15 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:15 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:15 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:15 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:15 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:15 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:15 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:15 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:15 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:15 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:15 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:15 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:15 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:15 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:15 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:15 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:15 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:16 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:16 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:16 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:16 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:16 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:16 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:17 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:17 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:17 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:17 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:17 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:17 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:17 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:17 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:17 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:17 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:17 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:17 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:17 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:17 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:17 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:17 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:17 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:17 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:17 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:17 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:17 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:17 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:17 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:17 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:17 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:17 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:17 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:17 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:17 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:17 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:17 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:17 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:17 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:17 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:17 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:17 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 11:46:17 UTC] PHP Warning:  Use of undefined constant get_template - assumed 'get_template' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php on line 16
+[27-Sep-2022 11:46:17 UTC] PHP Stack trace:
+[27-Sep-2022 11:46:17 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 11:46:17 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 11:46:17 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 11:46:17 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:08:28 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:08:28 UTC] PHP Stack trace:
+[27-Sep-2022 12:08:28 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:08:28 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:08:28 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:08:28 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:08:28 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 12:08:28 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 12:08:28 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:08:28 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:08:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function head() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php:37
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(1): get_header()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C:\User in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:08:45 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:08:45 UTC] PHP Stack trace:
+[27-Sep-2022 12:08:45 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:08:45 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:08:45 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:08:45 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:08:45 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 12:08:45 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 12:08:45 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:08:45 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:08:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function head() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php:37
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(1): get_header()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C:\User in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:09:28 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:09:28 UTC] PHP Stack trace:
+[27-Sep-2022 12:09:28 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:09:28 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:09:28 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:09:28 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:09:28 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 12:09:28 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 12:09:28 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:09:28 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:09:28 UTC] PHP Warning:  header() expects at least 1 parameter, 0 given in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:09:28 UTC] PHP Stack trace:
+[27-Sep-2022 12:09:28 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:09:28 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:09:28 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:09:28 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:09:28 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 12:09:28 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 12:09:28 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:09:28 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:09:28 UTC] PHP   9. header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php:37
+[27-Sep-2022 12:09:28 UTC] PHP Warning:  A non-numeric value encountered in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:09:28 UTC] PHP Stack trace:
+[27-Sep-2022 12:09:28 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:09:28 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:09:28 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:09:28 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:09:28 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 12:09:28 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 12:09:28 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:09:28 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:09:28 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\footer.php on line 179
+[27-Sep-2022 12:09:28 UTC] PHP Stack trace:
+[27-Sep-2022 12:09:28 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:09:28 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:09:28 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:09:28 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:09:28 UTC] PHP   5. get_footer() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:275
+[27-Sep-2022 12:09:28 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:92
+[27-Sep-2022 12:09:28 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:09:28 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function footer() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\footer.php:179
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(275): get_footer()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C: in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\footer.php on line 179
+[27-Sep-2022 12:10:12 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:10:12 UTC] PHP Stack trace:
+[27-Sep-2022 12:10:12 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:10:12 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:10:12 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:10:12 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:10:12 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 12:10:12 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 12:10:12 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:10:12 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:10:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function head() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php:37
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(1): get_header()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C:\User in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 37
+[27-Sep-2022 12:10:49 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\footer.php on line 179
+[27-Sep-2022 12:10:49 UTC] PHP Stack trace:
+[27-Sep-2022 12:10:49 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 12:10:49 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 12:10:49 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 12:10:49 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 12:10:49 UTC] PHP   5. get_footer() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:275
+[27-Sep-2022 12:10:49 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:92
+[27-Sep-2022 12:10:49 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 12:10:49 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 12:10:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function footer() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\footer.php:179
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(92): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(275): get_footer()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C: in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\footer.php on line 179
+[27-Sep-2022 13:03:19 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 19
+[27-Sep-2022 13:03:19 UTC] PHP Stack trace:
+[27-Sep-2022 13:03:19 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 13:03:19 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 13:03:19 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 13:03:19 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 13:03:19 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 13:03:19 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 13:03:19 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 13:03:19 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 13:03:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function title() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php:19
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(1): get_header()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C:\Use in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 19
+[27-Sep-2022 13:03:23 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 19
+[27-Sep-2022 13:03:23 UTC] PHP Stack trace:
+[27-Sep-2022 13:03:23 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 13:03:23 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 13:03:23 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 13:03:23 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 13:03:23 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 13:03:23 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 13:03:23 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 13:03:23 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 13:03:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function title() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php:19
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(1): get_header()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C:\Use in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 19
+[27-Sep-2022 13:03:28 UTC] PHP Warning:  Use of undefined constant wp - assumed 'wp' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 19
+[27-Sep-2022 13:03:28 UTC] PHP Stack trace:
+[27-Sep-2022 13:03:28 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[27-Sep-2022 13:03:28 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[27-Sep-2022 13:03:28 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[27-Sep-2022 13:03:28 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[27-Sep-2022 13:03:28 UTC] PHP   5. get_header() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php:1
+[27-Sep-2022 13:03:28 UTC] PHP   6. locate_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php:48
+[27-Sep-2022 13:03:28 UTC] PHP   7. load_template() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:716
+[27-Sep-2022 13:03:28 UTC] PHP   8. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php:770
+[27-Sep-2022 13:03:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function title() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php:19
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(770): require_once()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template.php(716): load_template('C:\\Users\\pc\\Doc...', true, Array)
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\general-template.php(48): locate_template(Array, true, true, Array)
+#3 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\index.php(1): get_header()
+#4 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include('C:\\Users\\pc\\Doc...')
+#5 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#6 C:\Use in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\header.php on line 19
+[28-Sep-2022 12:12:13 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'registrar_menu_footer' not found or invalid function name in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php on line 307
+[28-Sep-2022 12:12:13 UTC] PHP Stack trace:
+[28-Sep-2022 12:12:13 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\admin-ajax.php:0
+[28-Sep-2022 12:12:13 UTC] PHP   2. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\admin-ajax.php:22
+[28-Sep-2022 12:12:13 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-load.php:50
+[28-Sep-2022 12:12:13 UTC] PHP   4. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-config.php:91
+[28-Sep-2022 12:12:13 UTC] PHP   5. do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-settings.php:598
+[28-Sep-2022 12:12:13 UTC] PHP   6. WP_Hook->do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\plugin.php:476
+[28-Sep-2022 12:12:13 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php:331
+[28-Sep-2022 12:12:35 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'registrar_menu_footer' not found or invalid function name in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php on line 307
+[28-Sep-2022 12:12:35 UTC] PHP Stack trace:
+[28-Sep-2022 12:12:35 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\nav-menus.php:0
+[28-Sep-2022 12:12:35 UTC] PHP   2. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\nav-menus.php:13
+[28-Sep-2022 12:12:35 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\admin.php:34
+[28-Sep-2022 12:12:35 UTC] PHP   4. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-load.php:50
+[28-Sep-2022 12:12:35 UTC] PHP   5. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-config.php:91
+[28-Sep-2022 12:12:35 UTC] PHP   6. do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-settings.php:598
+[28-Sep-2022 12:12:35 UTC] PHP   7. WP_Hook->do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\plugin.php:476
+[28-Sep-2022 12:12:35 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php:331
+[28-Sep-2022 12:12:36 UTC] PHP Warning:  call_user_func_array() expects parameter 1 to be a valid callback, function 'registrar_menu_footer' not found or invalid function name in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php on line 307
+[28-Sep-2022 12:12:36 UTC] PHP Stack trace:
+[28-Sep-2022 12:12:36 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[28-Sep-2022 12:12:36 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[28-Sep-2022 12:12:36 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:13
+[28-Sep-2022 12:12:36 UTC] PHP   4. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-load.php:50
+[28-Sep-2022 12:12:36 UTC] PHP   5. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-config.php:91
+[28-Sep-2022 12:12:36 UTC] PHP   6. do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-settings.php:598
+[28-Sep-2022 12:12:36 UTC] PHP   7. WP_Hook->do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\plugin.php:476
+[28-Sep-2022 12:12:36 UTC] PHP   8. WP_Hook->apply_filters() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php:331
+[28-Sep-2022 16:00:47 UTC] Erro de banco de dados do WordPress You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''wp_postmeta'
+                WHERE meta_key = '_vp_post_type_mapped'' at line 1 para a consulta DELETE FROM 'wp_postmeta'
+                WHERE meta_key = '_vp_post_type_mapped' feita por require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, Visual_Portfolio_Archive_Mapping->init, Visual_Portfolio_Archive_Mapping::create_archive_page, Visual_Portfolio_Archive_Mapping::save_archive_page_option, Visual_Portfolio_Archive_Mapping::delete_post_type_mapped_meta
+[28-Sep-2022 16:00:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\plugins\visual-portfolio\classes\class-admin.php on line 300
+[28-Sep-2022 16:00:54 UTC] PHP Stack trace:
+[28-Sep-2022 16:00:54 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\plugins.php:0
+[28-Sep-2022 16:00:54 UTC] PHP   2. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\plugins.php:10
+[28-Sep-2022 16:00:54 UTC] PHP   3. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\admin.php:158
+[28-Sep-2022 16:00:54 UTC] PHP   4. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\menu.php:394
+[28-Sep-2022 16:00:54 UTC] PHP   5. do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-admin\includes\menu.php:155
+[28-Sep-2022 16:00:54 UTC] PHP   6. WP_Hook->do_action() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\plugin.php:476
+[28-Sep-2022 16:00:54 UTC] PHP   7. WP_Hook->apply_filters() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php:331
+[28-Sep-2022 16:00:54 UTC] PHP   8. Visual_Portfolio_Admin->add_go_pro_url() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\class-wp-hook.php:307
+[06-Oct-2022 11:27:26 UTC] PHP Warning:  Use of undefined constant the - assumed 'the' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 149
+[06-Oct-2022 11:27:26 UTC] PHP Stack trace:
+[06-Oct-2022 11:27:26 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[06-Oct-2022 11:27:26 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[06-Oct-2022 11:27:26 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[06-Oct-2022 11:27:26 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[06-Oct-2022 11:27:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php:150
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php(17): require('C:\\Users\\pc\\Doc...')
+#3 {main}
+  thrown in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 150
+[06-Oct-2022 11:27:29 UTC] PHP Warning:  Use of undefined constant the - assumed 'the' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 149
+[06-Oct-2022 11:27:29 UTC] PHP Stack trace:
+[06-Oct-2022 11:27:29 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[06-Oct-2022 11:27:29 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[06-Oct-2022 11:27:29 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[06-Oct-2022 11:27:29 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[06-Oct-2022 11:27:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php:150
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php(17): require('C:\\Users\\pc\\Doc...')
+#3 {main}
+  thrown in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 150
+[06-Oct-2022 11:27:34 UTC] PHP Warning:  Use of undefined constant the - assumed 'the' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 149
+[06-Oct-2022 11:27:34 UTC] PHP Stack trace:
+[06-Oct-2022 11:27:34 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[06-Oct-2022 11:27:34 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[06-Oct-2022 11:27:34 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[06-Oct-2022 11:27:34 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[06-Oct-2022 11:27:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php:150
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php(17): require('C:\\Users\\pc\\Doc...')
+#3 {main}
+  thrown in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 150
+[06-Oct-2022 11:27:40 UTC] PHP Warning:  Use of undefined constant the - assumed 'the' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 149
+[06-Oct-2022 11:27:40 UTC] PHP Stack trace:
+[06-Oct-2022 11:27:40 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[06-Oct-2022 11:27:40 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[06-Oct-2022 11:27:40 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[06-Oct-2022 11:27:40 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[06-Oct-2022 11:27:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php:150
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php(17): require('C:\\Users\\pc\\Doc...')
+#3 {main}
+  thrown in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 150
+[06-Oct-2022 11:27:51 UTC] PHP Warning:  Use of undefined constant the - assumed 'the' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 149
+[06-Oct-2022 11:27:51 UTC] PHP Stack trace:
+[06-Oct-2022 11:27:51 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[06-Oct-2022 11:27:51 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[06-Oct-2022 11:27:51 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[06-Oct-2022 11:27:51 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[06-Oct-2022 11:27:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php:150
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php(17): require('C:\\Users\\pc\\Doc...')
+#3 {main}
+  thrown in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 150
+[06-Oct-2022 11:27:53 UTC] PHP Warning:  Use of undefined constant the - assumed 'the' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 149
+[06-Oct-2022 11:27:53 UTC] PHP Stack trace:
+[06-Oct-2022 11:27:53 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[06-Oct-2022 11:27:53 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[06-Oct-2022 11:27:53 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[06-Oct-2022 11:27:53 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[06-Oct-2022 11:27:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php:150
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php(17): require('C:\\Users\\pc\\Doc...')
+#3 {main}
+  thrown in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 150
+[06-Oct-2022 11:27:59 UTC] PHP Warning:  Use of undefined constant the - assumed 'the' (this will throw an Error in a future version of PHP) in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 149
+[06-Oct-2022 11:27:59 UTC] PHP Stack trace:
+[06-Oct-2022 11:27:59 UTC] PHP   1. {main}() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:0
+[06-Oct-2022 11:27:59 UTC] PHP   2. require() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php:17
+[06-Oct-2022 11:27:59 UTC] PHP   3. require_once() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php:19
+[06-Oct-2022 11:27:59 UTC] PHP   4. include() C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php:106
+[06-Oct-2022 11:27:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function field() in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php:150
+Stack trace:
+#0 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-includes\template-loader.php(106): include()
+#1 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-blog-header.php(19): require_once('C:\\Users\\pc\\Doc...')
+#2 C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\index.php(17): require('C:\\Users\\pc\\Doc...')
+#3 {main}
+  thrown in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 150
+[06-Oct-2022 11:52:09 UTC] PHP Parse error:  syntax error, unexpected 'endwhile' (T_ENDWHILE), expecting end of file in C:\Users\pc\Documents\Work\Coderbooster\lp-neon-wordpress\app\public\wp-content\themes\theme-lp-neon\page-home.php on line 215
